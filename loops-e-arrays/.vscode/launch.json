@@ -1,0 +1,91 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch Consoantes",
+            "request": "launch",
+            "mainClass": "Consoantes",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch Fatorial",
+            "request": "launch",
+            "mainClass": "Fatorial",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch MaiorEMedia",
+            "request": "launch",
+            "mainClass": "MaiorEMedia",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch Multidimensional",
+            "request": "launch",
+            "mainClass": "Multidimensional",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch NomeIdade",
+            "request": "launch",
+            "mainClass": "NomeIdade",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch Nota",
+            "request": "launch",
+            "mainClass": "Nota",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch NumerosAleatorios",
+            "request": "launch",
+            "mainClass": "NumerosAleatorios",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch OrdemInversa",
+            "request": "launch",
+            "mainClass": "OrdemInversa",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch ParEImpar",
+            "request": "launch",
+            "mainClass": "ParEImpar",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch Tabuada",
+            "request": "launch",
+            "mainClass": "Tabuada",
+            "projectName": "loops-e-arrays_9c619a61"
+        },
+        {
+            "type": "java",
+            "name": "Launch teste",
+            "request": "launch",
+            "mainClass": "teste",
+            "projectName": "loops-e-arrays_9c619a61"
+        }
+    ]
+}

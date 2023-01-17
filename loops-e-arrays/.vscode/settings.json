@@ -1,7 +1,7 @@
 {
     "java.project.sourcePaths": [
-        "src",
-        "loops"
+        "loops",
+        "arrays"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": [
